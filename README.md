@@ -1,2 +1,2 @@
-# laravelchatsystem
- using chatify and pusher
+# laravel Chat System
+Laravel chat system created using chatify and pusher and sqlite used to store the user's information including his account, photo, photos and messages sent.
